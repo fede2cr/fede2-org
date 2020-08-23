@@ -1,4 +1,5 @@
-baseurl = "https://fede2.org/"  # Include trailing slash
+#baseurl = "https://fede2.org/"  # Include trailing slash
+baseurl = "https://curly-credit-4208.on.fleek.co/"  # Include trailing slash
 title = "Fede2.org"
 theme = "hugo-swift-theme"
 author = "Álvaro Figueroa"
